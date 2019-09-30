@@ -1,0 +1,102 @@
+C:\Users\user\source\repos\UserDefinedStepAndElement1\UserDefinedStepAndElement1\obj\Debug\UserDefinedStepAndElement1.csprojAssemblyReference.cache
+C:\Users\user\source\repos\UserDefinedStepAndElement1\UserDefinedStepAndElement1\obj\Debug\UserDefinedStepAndElement1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\UserDefinedStepAndElement1\UserDefinedStepAndElement1\bin\Debug\Nuevo.dll
+C:\Users\user\source\repos\UserDefinedStepAndElement1\UserDefinedStepAndElement1\bin\Debug\Nuevo.pdb
+C:\Users\user\source\repos\UserDefinedStepAndElement1\UserDefinedStepAndElement1\bin\Debug\SimioAPI.dll
+C:\Users\user\source\repos\UserDefinedStepAndElement1\UserDefinedStepAndElement1\bin\Debug\SimioAPI.Extensions.dll
+C:\Users\user\source\repos\UserDefinedStepAndElement1\UserDefinedStepAndElement1\bin\Debug\SimioAPI.Graphics.dll
+C:\Users\user\source\repos\UserDefinedStepAndElement1\UserDefinedStepAndElement1\obj\Debug\UserDefinedStepAndElement1.csproj.CopyComplete
+C:\Users\user\source\repos\UserDefinedStepAndElement1\UserDefinedStepAndElement1\obj\Debug\Nuevo.dll
+C:\Users\user\source\repos\UserDefinedStepAndElement1\UserDefinedStepAndElement1\obj\Debug\Nuevo.pdb
+C:\Users\user\Documents\SimioUserExtensions\Nuevo.dll
+C:\Users\user\Documents\SimioUserExtensions\Nuevo.pdb
+C:\Users\Usuario\Desktop\Collahuasi\UserDefinedStepAndElement1\UserDefinedStepAndElement1\obj\Debug\UserDefinedStepAndElement1.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Collahuasi\UserDefinedStepAndElement1\UserDefinedStepAndElement1\obj\Debug\UserDefinedStepAndElement1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Collahuasi\UserDefinedStepAndElement1\UserDefinedStepAndElement1\obj\Debug\Nuevo.dll
+C:\Users\Usuario\Desktop\Collahuasi\UserDefinedStepAndElement1\UserDefinedStepAndElement1\obj\Debug\Nuevo.pdb
+C:\Users\Usuario\Documents\SimioUserExtensions\Nuevo.dll
+C:\Users\Usuario\Documents\SimioUserExtensions\Nuevo.pdb
+C:\Users\Usuario\Desktop\Collahuasi\UserDefinedStepAndElement1\UserDefinedStepAndElement1\obj\Debug\UserDefinedStepAndElement1.csproj.CopyComplete
+G:\My Drive\2019.04_Collahuasi_02_PY_Fase1_Iniciativas1y2\Documents\SimioUserExtensions\Nuevo.dll
+G:\My Drive\2019.04_Collahuasi_02_PY_Fase1_Iniciativas1y2\Documents\SimioUserExtensions\Nuevo.pdb
+G:\My Drive\2019.04_Collahuasi_02_PY_Fase1_Iniciativas1y2\6. Investigación y Análisis\Backups C#\C# 6-04\UserDefinedStepAndElement1\obj\Debug\UserDefinedStepAndElement1.csprojAssemblyReference.cache
+G:\My Drive\2019.04_Collahuasi_02_PY_Fase1_Iniciativas1y2\6. Investigación y Análisis\Backups C#\C# 6-04\UserDefinedStepAndElement1\obj\Debug\UserDefinedStepAndElement1.csproj.CoreCompileInputs.cache
+G:\My Drive\2019.04_Collahuasi_02_PY_Fase1_Iniciativas1y2\6. Investigación y Análisis\Backups C#\C# 6-04\UserDefinedStepAndElement1\obj\Debug\UserDefinedStepAndElement1.csproj.CopyComplete
+G:\My Drive\2019.04_Collahuasi_02_PY_Fase1_Iniciativas1y2\6. Investigación y Análisis\Backups C#\C# 6-04\UserDefinedStepAndElement1\obj\Debug\Nuevo.dll
+G:\My Drive\2019.04_Collahuasi_02_PY_Fase1_Iniciativas1y2\6. Investigación y Análisis\Backups C#\C# 6-04\UserDefinedStepAndElement1\obj\Debug\Nuevo.pdb
+C:\Users\Aloys\Documents\SimioUserExtensions\Nuevo.dll
+C:\Users\Aloys\Documents\SimioUserExtensions\Nuevo.pdb
+G:\My Drive\2019.04_Collahuasi_02_PY_Fase1_Iniciativas1y2\6. Investigación y Análisis\Backups C# y simio\C# 6-04\UserDefinedStepAndElement1\obj\Debug\UserDefinedStepAndElement1.csprojAssemblyReference.cache
+G:\My Drive\2019.04_Collahuasi_02_PY_Fase1_Iniciativas1y2\6. Investigación y Análisis\Backups C# y simio\C# 6-04\UserDefinedStepAndElement1\obj\Debug\UserDefinedStepAndElement1.csproj.CoreCompileInputs.cache
+G:\My Drive\2019.04_Collahuasi_02_PY_Fase1_Iniciativas1y2\6. Investigación y Análisis\Backups C# y simio\C# 6-04\UserDefinedStepAndElement1\obj\Debug\UserDefinedStepAndElement1.csproj.CopyComplete
+G:\My Drive\2019.04_Collahuasi_02_PY_Fase1_Iniciativas1y2\6. Investigación y Análisis\Backups C# y simio\C# 6-04\UserDefinedStepAndElement1\obj\Debug\Nuevo.dll
+G:\My Drive\2019.04_Collahuasi_02_PY_Fase1_Iniciativas1y2\6. Investigación y Análisis\Backups C# y simio\C# 6-04\UserDefinedStepAndElement1\obj\Debug\Nuevo.pdb
+G:\My Drive\2019.04_Collahuasi_02_PY_Fase1_Iniciativas1y2\6. Investigación y Análisis\Backups C# y simio\C# 6-04 dia 15 y aleatorio\UserDefinedStepAndElement1\obj\Debug\UserDefinedStepAndElement1.csprojAssemblyReference.cache
+G:\My Drive\2019.04_Collahuasi_02_PY_Fase1_Iniciativas1y2\6. Investigación y Análisis\Backups C# y simio\C# 6-04 dia 15 y aleatorio\UserDefinedStepAndElement1\obj\Debug\UserDefinedStepAndElement1.csproj.CoreCompileInputs.cache
+G:\My Drive\2019.04_Collahuasi_02_PY_Fase1_Iniciativas1y2\6. Investigación y Análisis\Backups C# y simio\C# 6-04 dia 15 y aleatorio\UserDefinedStepAndElement1\obj\Debug\Nuevo.dll
+G:\My Drive\2019.04_Collahuasi_02_PY_Fase1_Iniciativas1y2\6. Investigación y Análisis\Backups C# y simio\C# 6-04 dia 15 y aleatorio\UserDefinedStepAndElement1\obj\Debug\Nuevo.pdb
+C:\Users\Aloys\Desktop\Collahuasi\C# 6-04 dia 15 y aleatorio\UserDefinedStepAndElement1\obj\Debug\UserDefinedStepAndElement1.csprojAssemblyReference.cache
+C:\Users\Aloys\Desktop\Collahuasi\C# 6-04 dia 15 y aleatorio\UserDefinedStepAndElement1\obj\Debug\UserDefinedStepAndElement1.csproj.CoreCompileInputs.cache
+C:\Users\Aloys\Desktop\Collahuasi\C# 6-04 dia 15 y aleatorio\UserDefinedStepAndElement1\obj\Debug\Nuevo.dll
+C:\Users\Aloys\Desktop\Collahuasi\C# 6-04 dia 15 y aleatorio\UserDefinedStepAndElement1\obj\Debug\Nuevo.pdb
+C:\Users\Aloys\Desktop\Collahuasi\C# 6-04 dia 15 y aleatorio\UserDefinedStepAndElement1\obj\Debug\UserDefinedStepAndElement1.csproj.CopyComplete
+C:\Users\Usuario\Desktop\ProyectoOrdenarelCaos\C# 6-04 dia 15 y aleatorio\UserDefinedStepAndElement1\obj\Debug\UserDefinedStepAndElement1.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\ProyectoOrdenarelCaos\C# 6-04 dia 15 y aleatorio\UserDefinedStepAndElement1\obj\Debug\UserDefinedStepAndElement1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ProyectoOrdenarelCaos\C# 6-04 dia 15 y aleatorio\UserDefinedStepAndElement1\obj\Debug\Nuevo.dll
+C:\Users\Usuario\Desktop\ProyectoOrdenarelCaos\C# 6-04 dia 15 y aleatorio\UserDefinedStepAndElement1\obj\Debug\Nuevo.pdb
+C:\Users\Usuario\Desktop\ProyectoOrdenarelCaos\C# 6-04 dia 15 y aleatorio\UserDefinedStepAndElement1\obj\Debug\UserDefinedStepAndElement1.csproj.CopyComplete
+C:\Users\Usuario\Desktop\ProyectoOrdenarelCaos\C# 6-04 dia 15 y aleatorio 2\UserDefinedStepAndElement1\obj\Debug\UserDefinedStepAndElement1.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\ProyectoOrdenarelCaos\C# 6-04 dia 15 y aleatorio 2\UserDefinedStepAndElement1\obj\Debug\UserDefinedStepAndElement1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ProyectoOrdenarelCaos\C# 6-04 dia 15 y aleatorio 2\UserDefinedStepAndElement1\obj\Debug\UserDefinedStepAndElement1.csproj.CopyComplete
+C:\Users\Usuario\Desktop\ProyectoOrdenarelCaos\C# 6-04 dia 15 y aleatorio 2\UserDefinedStepAndElement1\obj\Debug\Nuevo.dll
+C:\Users\Usuario\Desktop\ProyectoOrdenarelCaos\C# 6-04 dia 15 y aleatorio 2\UserDefinedStepAndElement1\obj\Debug\Nuevo.pdb
+C:\Users\Aloys\Desktop\12pm\C# 6-04 dia 15 y aleatorio 2\UserDefinedStepAndElement1\obj\Debug\UserDefinedStepAndElement1.csprojAssemblyReference.cache
+C:\Users\Aloys\Desktop\12pm\C# 6-04 dia 15 y aleatorio 2\UserDefinedStepAndElement1\obj\Debug\UserDefinedStepAndElement1.csproj.CoreCompileInputs.cache
+C:\Users\Aloys\Desktop\12pm\C# 6-04 dia 15 y aleatorio 2\UserDefinedStepAndElement1\obj\Debug\UserDefinedStepAndElement1.csproj.CopyComplete
+C:\Users\Aloys\Desktop\12pm\C# 6-04 dia 15 y aleatorio 2\UserDefinedStepAndElement1\obj\Debug\Nuevo.dll
+C:\Users\Aloys\Desktop\12pm\C# 6-04 dia 15 y aleatorio 2\UserDefinedStepAndElement1\obj\Debug\Nuevo.pdb
+C:\Users\Aloys\Desktop\12pm\PruebaHaciaelMIP\UserDefinedStepAndElement1\obj\Debug\UserDefinedStepAndElement1.csprojAssemblyReference.cache
+C:\Users\Aloys\Desktop\12pm\PruebaHaciaelMIP\UserDefinedStepAndElement1\obj\Debug\UserDefinedStepAndElement1.csproj.CoreCompileInputs.cache
+C:\Users\Aloys\Desktop\12pm\PruebaHaciaelMIP\UserDefinedStepAndElement1\obj\Debug\UserDefinedStepAndElement1.csproj.CopyComplete
+C:\Users\Aloys\Desktop\12pm\PruebaHaciaelMIP\UserDefinedStepAndElement1\obj\Debug\Nuevo.dll
+C:\Users\Aloys\Desktop\12pm\PruebaHaciaelMIP\UserDefinedStepAndElement1\obj\Debug\Nuevo.pdb
+C:\Users\Aloys\Desktop\12pm\PruebaHaciaelMIP -2\UserDefinedStepAndElement1\obj\Debug\UserDefinedStepAndElement1.csprojAssemblyReference.cache
+C:\Users\Aloys\Desktop\12pm\PruebaHaciaelMIP -2\UserDefinedStepAndElement1\obj\Debug\UserDefinedStepAndElement1.csproj.CoreCompileInputs.cache
+C:\Users\Aloys\Desktop\12pm\PruebaHaciaelMIP -2\UserDefinedStepAndElement1\obj\Debug\UserDefinedStepAndElement1.csproj.CopyComplete
+C:\Users\Aloys\Desktop\12pm\PruebaHaciaelMIP -2\UserDefinedStepAndElement1\obj\Debug\Nuevo.dll
+C:\Users\Aloys\Desktop\12pm\PruebaHaciaelMIP -2\UserDefinedStepAndElement1\obj\Debug\Nuevo.pdb
+C:\Users\Usuario\Desktop\ProyectoOrdenarelCaos\C# 6-04 dia 15 new pl Ujina\UserDefinedStepAndElement1\obj\Debug\UserDefinedStepAndElement1.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\ProyectoOrdenarelCaos\C# 6-04 dia 15 new pl Ujina\UserDefinedStepAndElement1\obj\Debug\UserDefinedStepAndElement1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ProyectoOrdenarelCaos\C# 6-04 dia 15 new pl Ujina\UserDefinedStepAndElement1\obj\Debug\UserDefinedStepAndElement1.csproj.CopyComplete
+C:\Users\Usuario\Desktop\ProyectoOrdenarelCaos\C# 6-04 dia 15 new pl Ujina\UserDefinedStepAndElement1\obj\Debug\Nuevo.dll
+C:\Users\Usuario\Desktop\ProyectoOrdenarelCaos\C# 6-04 dia 15 new pl Ujina\UserDefinedStepAndElement1\obj\Debug\Nuevo.pdb
+C:\Users\Usuario\Desktop\ProyectoOrdenarelCaos\C# 6-04 dia aleatorio new pl Ujina sin CF dif\UserDefinedStepAndElement1\obj\Debug\UserDefinedStepAndElement1.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\ProyectoOrdenarelCaos\C# 6-04 dia aleatorio new pl Ujina sin CF dif\UserDefinedStepAndElement1\obj\Debug\UserDefinedStepAndElement1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ProyectoOrdenarelCaos\C# 6-04 dia aleatorio new pl Ujina sin CF dif\UserDefinedStepAndElement1\obj\Debug\UserDefinedStepAndElement1.csproj.CopyComplete
+C:\Users\Usuario\Desktop\ProyectoOrdenarelCaos\C# 6-04 dia aleatorio new pl Ujina sin CF dif\UserDefinedStepAndElement1\obj\Debug\Nuevo.dll
+C:\Users\Usuario\Desktop\ProyectoOrdenarelCaos\C# 6-04 dia aleatorio new pl Ujina sin CF dif\UserDefinedStepAndElement1\obj\Debug\Nuevo.pdb
+C:\Users\Usuario\Desktop\ProyectoOrdenarelCaos\C# 6-04 dia aleatorio new pl Ujina sin CF fases esteril y otras vainas\UserDefinedStepAndElement1\obj\Debug\UserDefinedStepAndElement1.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\ProyectoOrdenarelCaos\C# 6-04 dia aleatorio new pl Ujina sin CF fases esteril y otras vainas\UserDefinedStepAndElement1\obj\Debug\UserDefinedStepAndElement1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ProyectoOrdenarelCaos\C# 6-04 dia aleatorio new pl Ujina sin CF fases esteril y otras vainas\UserDefinedStepAndElement1\obj\Debug\UserDefinedStepAndElement1.csproj.CopyComplete
+C:\Users\Usuario\Desktop\ProyectoOrdenarelCaos\C# 6-04 dia aleatorio new pl Ujina sin CF fases esteril y otras vainas\UserDefinedStepAndElement1\obj\Debug\Nuevo.dll
+C:\Users\Usuario\Desktop\ProyectoOrdenarelCaos\C# 6-04 dia aleatorio new pl Ujina sin CF fases esteril y otras vainas\UserDefinedStepAndElement1\obj\Debug\Nuevo.pdb
+C:\Users\Usuario\Desktop\Semana pre implementacion\C# 6-04 dia aleatorio new pl Ujina sin CF fases esteril y otras vainas\UserDefinedStepAndElement1\obj\Debug\UserDefinedStepAndElement1.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Semana pre implementacion\C# 6-04 dia aleatorio new pl Ujina sin CF fases esteril y otras vainas\UserDefinedStepAndElement1\obj\Debug\UserDefinedStepAndElement1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Semana pre implementacion\C# 6-04 dia aleatorio new pl Ujina sin CF fases esteril y otras vainas\UserDefinedStepAndElement1\obj\Debug\UserDefinedStepAndElement1.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Semana pre implementacion\C# 6-04 dia aleatorio new pl Ujina sin CF fases esteril y otras vainas\UserDefinedStepAndElement1\obj\Debug\Nuevo.dll
+C:\Users\Usuario\Desktop\Semana pre implementacion\C# 6-04 dia aleatorio new pl Ujina sin CF fases esteril y otras vainas\UserDefinedStepAndElement1\obj\Debug\Nuevo.pdb
+C:\Users\Usuario\Desktop\Semana pre implementacion\C# 6-04 dia aleatorio new pl Ujina sin CF fases esteril y otras vainas2\UserDefinedStepAndElement1\obj\Debug\UserDefinedStepAndElement1.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Semana pre implementacion\C# 6-04 dia aleatorio new pl Ujina sin CF fases esteril y otras vainas2\UserDefinedStepAndElement1\obj\Debug\UserDefinedStepAndElement1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Semana pre implementacion\C# 6-04 dia aleatorio new pl Ujina sin CF fases esteril y otras vainas2\UserDefinedStepAndElement1\obj\Debug\UserDefinedStepAndElement1.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Semana pre implementacion\C# 6-04 dia aleatorio new pl Ujina sin CF fases esteril y otras vainas2\UserDefinedStepAndElement1\obj\Debug\Nuevo.dll
+C:\Users\Usuario\Desktop\Semana pre implementacion\C# 6-04 dia aleatorio new pl Ujina sin CF fases esteril y otras vainas2\UserDefinedStepAndElement1\obj\Debug\Nuevo.pdb
+C:\Users\Usuario\Desktop\Semana pre implementacion\C# 8-05\UserDefinedStepAndElement1\obj\Debug\UserDefinedStepAndElement1.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Semana pre implementacion\C# 8-05\UserDefinedStepAndElement1\obj\Debug\UserDefinedStepAndElement1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Semana pre implementacion\C# 8-05\UserDefinedStepAndElement1\obj\Debug\UserDefinedStepAndElement1.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Semana pre implementacion\C# 8-05\UserDefinedStepAndElement1\obj\Debug\Nuevo.dll
+C:\Users\Usuario\Desktop\Semana pre implementacion\C# 8-05\UserDefinedStepAndElement1\obj\Debug\Nuevo.pdb
+C:\Users\Usuario\Desktop\Semana pre implementacion\C# 8-05 Dinamico entero\UserDefinedStepAndElement1\obj\Debug\UserDefinedStepAndElement1.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Semana pre implementacion\C# 8-05 Dinamico entero\UserDefinedStepAndElement1\obj\Debug\UserDefinedStepAndElement1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Semana pre implementacion\C# 8-05 Dinamico entero\UserDefinedStepAndElement1\obj\Debug\UserDefinedStepAndElement1.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Semana pre implementacion\C# 8-05 Dinamico entero\UserDefinedStepAndElement1\obj\Debug\Nuevo.dll
+C:\Users\Usuario\Desktop\Semana pre implementacion\C# 8-05 Dinamico entero\UserDefinedStepAndElement1\obj\Debug\Nuevo.pdb
