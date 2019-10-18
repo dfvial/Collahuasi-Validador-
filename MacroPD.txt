@@ -1,0 +1,88 @@
+Sub Macro1()
+
+Dim ws As Worksheet
+Dim sh As Worksheet
+Dim PalasyCf As Worksheet
+Dim Lista As Collection
+Dim i As Integer
+Dim fecha As String
+Dim turno As String
+Set Lista = New Collection
+
+Set sh = ThisWorkbook.Sheets("Sheet12")
+Set PalayCF = ThisWorkbook.Sheets("Palas y CF")
+
+nf = PalayCF.Cells(Rows.Count, "A").End(xlUp).Row
+
+
+For i = 1 To nf
+    Lista.Add PalayCF.Cells(i, 1), key:=CStr(PalayCF.Cells(i, 1))
+ 
+Next
+
+
+contador = 2
+sh.Cells(1, 1) = "Pala o Cargador"
+sh.Cells(1, 2) = "Fecha"
+sh.Cells(1, 3) = "Turno"
+sh.Cells(1, 4) = "Tonelaje"
+sh.Cells(1, 5) = "Ley de Mineral"
+
+
+
+
+For Each ws In ThisWorkbook.Worksheets
+    fil = 1
+    sum = 0
+    Do While sum < 30
+        If IsEmpty(ws.Cells(fil, 2)) Then
+            sum = sum + 1
+        Else
+            sum = 0
+        End If
+        
+        If CStr(ws.Cells(fil, 2)) = "TURNO  B" Or CStr(ws.Cells(fil, 2)) = "TURNO  A" Then
+            fecha = ws.Cells(fil, 5).Value2
+            turno = CStr(ws.Cells(fil, 2))
+        End If
+        
+        If IsEmpty(ws.Cells(fil, 2)) = False And ContainsValue(Lista, ws.Cells(fil, 2)) Then
+            sh.Cells(contador, 1) = ws.Cells(fil, 2) 'Pala o Cargador Frontal
+            sh.Cells(contador, 2) = fecha 'Fecha
+            sh.Cells(contador, 3) = turno 'Turno
+            sh.Cells(contador, 4) = ws.Cells(fil, 5) 'Tonelaje
+            sh.Cells(contador, 5) = ws.Cells(fil, 6) 'Ley de Mineral
+            If IsEmpty(ws.Cells(fil, 5)) Then
+                sh.Cells(contador, 4) = 0
+            End If
+            
+            
+            
+            
+            contador = contador + 1
+        End If
+        fil = fil + 1
+    Loop
+Next
+End Sub
+
+Private Function ContainsValue(AllItems As Collection, TheKey As String) As Boolean
+    Dim TheValue As Variant
+    On Error Resume Next
+    TheValue = AllItems.Item(TheKey)
+    ContainsValue = (Err.Number = 0)
+    Err.Clear
+End Function
+
+Private Function ContainsObject(objCollection As Object, strName As String) As Boolean
+    Dim o As Object
+    On Error Resume Next
+    Set o = objCollection(strName)
+    ContainsObject = (Err.Number = 0)
+    Err.Clear
+End Function
+
+Private Sub CommandButton1_Click()
+
+End Sub
+
