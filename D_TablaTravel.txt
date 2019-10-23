@@ -1,4 +1,3 @@
-
 Horizontal dump of travel:
 ddbkey	id	locstart	locend	xgraph	ygraph	dist	timeempty	timeloaded	closed	factor	street	resist	
 1411328	000EBC18	C-ENTRENAMIENTO	NR216	<array>	<array>	477	52	94	0	100		0.000000	
